@@ -4,8 +4,8 @@ import datetime as dt
 
 
 ### Cambiar nombre de archivo si corresponde
-archivo = './archivo_balance/balances_20250128.txt'
-sep = ';'
+archivo = './archivo_balance/balances.txt'
+sep = ','
 
 # Cambiar segun la fecha del balance
 fecha = dt.datetime(2025,1,28)
